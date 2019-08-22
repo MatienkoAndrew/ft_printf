@@ -1,4 +1,4 @@
-Task: create your own printf
+#Task: create your own printf
 Implemented specificators: d, i, o, u, x, X, f, e, p, s, c, %
 Implemented length: hh, h, l, ll
 Implemented flags: -, +, #, 0, ' '
