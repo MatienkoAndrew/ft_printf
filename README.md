@@ -5,5 +5,5 @@
 3. Implemented flags: -, +, #, 0, ' '
 4. Implemented width: (num) and *
 5. Implemented precision: (num) and *
-Have done: Yes
-Leaks: Nope
+**Have done: Yes**
+**Leaks: Nope**
