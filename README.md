@@ -6,6 +6,6 @@
 4. Implemented width: (num) and *
 5. Implemented precision: (num) and *
 
-**Have done: Yes**
+**Have done:** Yes
 
-**Leaks: Nope**
+**Leaks:** Nope
